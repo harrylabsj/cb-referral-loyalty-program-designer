@@ -1,0 +1,29 @@
+{
+  "name": "International Referral and Loyalty Program Designer",
+  "slug": "cb-referral-loyalty-program-designer",
+  "version": "1.0.1",
+  "description": "Design referral, loyalty, membership, and ambassador programs for any overseas market in minutes. Get culturally adapted reward mechanics, fraud guardrails, launch plans, and lifecycle measurement frameworks — install and build your program in under 30 seconds.",
+  "author": "Pearl-led OpenClaw team",
+  "tags": [
+    "cross-border",
+    "overseas",
+    "global-expansion",
+    "loyalty",
+    "retention"
+  ],
+  "trigger_keywords": [
+    "overseas referral program",
+    "international loyalty program",
+    "global membership strategy",
+    "ambassador program abroad",
+    "foreign market retention"
+  ],
+  "language": "en",
+  "type": "descriptive",
+  "category": "cross-border-expansion",
+  "requires_api": false,
+  "requires_code_execution": false,
+  "outputs": "structured descriptive framework",
+  "readiness": "stable",
+  "safety": "Incentives, sweepstakes, referral rewards, and privacy practices may be regulated and require local legal review."
+}
